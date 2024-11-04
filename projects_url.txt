@@ -1,0 +1,2 @@
+https://perusismosdata.streamlit.app/Sismos_Reporte_Detallado
+https://jhondataton2024peru.streamlit.app
