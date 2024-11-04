@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "active-streamlit"
+version = "0.1.0"
+description = ""
+authors = ["tjhon <fr.jhonk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.26.1"
+tqdm = "^4.66.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
