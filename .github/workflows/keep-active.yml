@@ -2,7 +2,7 @@ name: Keep Active My Apps
 
 on:
   schedule:
-    - cron: "20 23,11 * * *" 
+    - cron: "25 23,11 * * *" 
 
 
 permissions:
