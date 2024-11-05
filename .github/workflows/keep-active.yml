@@ -2,10 +2,8 @@ name: Keep Active My Apps
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta cada 24 horas a medianoche UTC
-  push:
-    branches:
-      - main
+    - cron: "0 0,12 * * *" 
+
 
 permissions:
   contents: write
