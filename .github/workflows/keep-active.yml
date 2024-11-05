@@ -2,7 +2,7 @@ name: Keep Active My Apps
 
 on:
   schedule:
-    - cron: "25 23,11 * * *" 
+    - cron: "30 23,11 * * *" 
   push:
     branches: 
       - main
